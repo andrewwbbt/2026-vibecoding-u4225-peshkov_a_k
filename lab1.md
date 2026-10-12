@@ -66,14 +66,21 @@
 
 ### Скриншоты работы бота
 
-1. **Главный экран и кнопка «Меню» слева от поля ввода:** `<img width="622" height="487" alt="1111" src="https://github.com/user-attachments/assets/ff1a3c1c-0cfc-4da2-9ff4-dd70083e3228" />
-`
-2. **Список команд после нажатия «Меню»:** `<img width="614" height="487" alt="222222" src="https://github.com/user-attachments/assets/f53061fa-1881-411d-8fb6-dffc79ee7af8" />
-`
-3. **Добавление задачи, выбор приоритета, срока и напоминания:** `<img width="629" height="903" alt="444444" src="https://github.com/user-attachments/assets/a020ffd1-e555-4a3a-af5e-7d91be2b39b6" />
-`
-4. **Списки «Задачи» и «Сегодня» с порядком №1, №2 + Выполнение задачи** `<img width="615" height="352" alt="5555555555555" src="https://github.com/user-attachments/assets/1caa552d-95a9-4d0e-828a-5601983da655" />
-`
+1. **Главный экран и кнопка «Меню» слева от поля ввода:**
+
+   <img width="622" height="487" alt="Главный экран бота" src="https://github.com/user-attachments/assets/ff1a3c1c-0cfc-4da2-9ff4-dd70083e3228" />
+
+2. **Список команд после нажатия «Меню»:**
+
+   <img width="614" height="487" alt="Список команд" src="https://github.com/user-attachments/assets/f53061fa-1881-411d-8fb6-dffc79ee7af8" />
+
+3. **Добавление задачи, выбор приоритета, срока и напоминания:**
+
+   <img width="629" height="903" alt="Добавление задачи" src="https://github.com/user-attachments/assets/a020ffd1-e555-4a3a-af5e-7d91be2b39b6" />
+
+4. **Списки «Задачи» и «Сегодня» с порядком №1, №2 + Выполнение задачи:**
+
+   <img width="615" height="352" alt="Списки задач и выполнение" src="https://github.com/user-attachments/assets/1caa552d-95a9-4d0e-828a-5601983da655" />
 
 ### Видео-демонстрация
 
