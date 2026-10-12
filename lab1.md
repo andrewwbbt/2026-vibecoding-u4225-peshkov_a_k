@@ -84,7 +84,7 @@
 
 ### Видео-демонстрация
 
-**Ссылка на YouTube или Google Drive:** https://drive.google.com/file/d/1CjbCpRLIWtRMg1HHfy989ET3XIp5U9P9/view?usp=sharing
+**Ссылка на Google Drive:** https://drive.google.com/file/d/1CjbCpRLIWtRMg1HHfy989ET3XIp5U9P9/view?usp=sharing
 
 ## 5. Трудности и решения
 
