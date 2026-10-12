@@ -162,7 +162,7 @@ data = await fetch_json(
 
 ### Видео-демо
 
-**Ссылка на видео (YouTube или Google Drive):** https://drive.google.com/file/d/1kWN3DuUfkbn8Fy30s1HJJXfQ30-6YcBO/view?usp=sharing.
+**Ссылка на видео (Google Drive):** https://drive.google.com/file/d/1kWN3DuUfkbn8Fy30s1HJJXfQ30-6YcBO/view?usp=sharing.
 
 ## 5. Трудности и решения
 
