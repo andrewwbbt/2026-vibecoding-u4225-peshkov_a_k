@@ -84,7 +84,7 @@
 
 ### Видео-демонстрация
 
-**Ссылка на YouTube или Google Drive:** `[вставить ссылку]`
+**Ссылка на YouTube или Google Drive:** `[[вставить ссылку](https://drive.google.com/file/d/1CjbCpRLIWtRMg1HHfy989ET3XIp5U9P9/view?usp=sharing)]`
 
 ## 5. Трудности и решения
 
