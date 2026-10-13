@@ -24,7 +24,7 @@
 | Зависимости | Перечислены в [requirements.txt](https://github.com/andrewwbbt/ultratask/blob/main/requirements.txt): `python-telegram-bot[job-queue]`, `python-dotenv`, `tzdata`, `httpx`. |
 | Секреты | Код читает `BOT_TOKEN` из окружения; пример значений находится в [.env.example](https://github.com/andrewwbbt/ultratask/blob/main/.env.example). Локальный `.env` исключён из Git через [.gitignore](https://github.com/andrewwbbt/ultratask/blob/main/.gitignore). |
 | База данных | `DB_PATH` задаёт путь к файлу SQLite. Для постоянного хранения на Railway нужен путь `/data/tasks.db` при томе, смонтированном в `/data`. Фактическое текущее значение переменной на Railway следует проверить отдельно. |
-| Логирование и ошибки | Используется `logging`; общий обработчик сообщает пользователю об ошибке и записывает исключение в лог. Ошибки погодного API обрабатываются отдельно. |
+| Логирование и ошибки | Используется `logging`; общий обработчик сообщает пользователю об ошибке и записывает исключение в лог. |
 | Личные данные | Файлы SQLite, журналы и виртуальное окружение исключены из Git. Данные пользователей разделены по Telegram ID. |
 
 На скриншоте настроек Railway показана команда запуска `python bot.py` и политика перезапуска при ошибке:
